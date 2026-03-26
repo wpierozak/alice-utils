@@ -10,7 +10,7 @@
 #include <fairlogger/Logger.h>
 #include "CommonConstants/LHCConstants.h"
 
-void plotFv0FeeBc(std::string digiFName = "fv0digits.root", std::string outFileName = "events-vs-bc.root")
+void plotFv0FeeBc(std::string fv0DigitFile, std::string outFileName = "events-vs-bc.root")
 {
   std::unique_ptr<TFile> digiFile(TFile::Open(digiFName.c_str()));
   if (!digiFile || digiFile->IsZombie()) {

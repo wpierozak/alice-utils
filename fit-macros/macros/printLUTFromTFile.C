@@ -22,7 +22,7 @@ R__LOAD_LIBRARY(libO2DataFormatsFIT)
 #include "Framework/Logger.h"
 #include "CommonConstants/LHCConstants.h"
 
-void readLUTFromFile(const std::string filePath, const std::string objectName = "LookupTable")
+void printLUTFromTFile(const std::string filePath, const std::string objectName = "LookupTable")
 {
   TFile file(filePath.c_str(), "READ");
   if(file.IsOpen() == false) {

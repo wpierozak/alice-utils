@@ -11,6 +11,7 @@
 #if !defined(__CLING__) || defined(__ROOTCLING__)
 #include <iostream>
 #include <array>
+#include <ranges>
 #endif
 
 
@@ -25,7 +26,10 @@ R__LOAD_LIBRARY(libO2DataFormatsFIT)
 #include "Framework/Logger.h"
 #include "CommonConstants/LHCConstants.h"
 
-void fetchLUT(const std::string ccdbUrl, const std::string detector, long timestamp = -1, const std::string fileName = "")
+void saveToCSV(const std::vector<o2::fit::EntryFEE>& lut, string_view path);
+void saveToRoot(std::shared_ptr<std::vector<o2::fit::EntryFEE>> lut, string_view path);
+
+void fetchLUT(const std::string ccdbUrl, const std::string detector, long timestamp = -1, const std::string fileName = "", bool asCsv = true)
 {
   o2::ccdb::CcdbApi ccdbApi;
   ccdbApi.init(ccdbUrl);
@@ -36,7 +40,7 @@ void fetchLUT(const std::string ccdbUrl, const std::string detector, long timest
     timestamp = o2::ccdb::getCurrentTimestamp();
   }
 
-  std::unique_ptr<std::vector<o2::fit::EntryFEE>> lut(ccdbApi.retrieveFromTFileAny<std::vector<o2::fit::EntryFEE>>(ccdbPath, metadata, timestamp));
+  std::shared_ptr<std::vector<o2::fit::EntryFEE>> lut(ccdbApi.retrieveFromTFileAny<std::vector<o2::fit::EntryFEE>>(ccdbPath, metadata, timestamp));
 
   if (!lut) {
     LOGP(error, "LUT object not found in {}/{} for timestamp {}.", ccdbUrl, ccdbPath, timestamp);
@@ -54,9 +58,45 @@ void fetchLUT(const std::string ccdbUrl, const std::string detector, long timest
     return;
   }
 
-  TFile file(fileName.c_str(), "RECREATE");
+  if(asCsv) {
+    saveToCSV(*lut, fileName);
+  } else {
+    saveToRoot(lut, fileName);
+  }
+}
+
+
+void saveToCSV(const std::vector<o2::fit::EntryFEE>& lut, string_view path)
+{
+  std::ofstream ofs(path.data());
+  if (!ofs.is_open()) {
+    LOGP(error, "Cannot open file for writing: {}", path);
+    return;
+  }
+  ofs << "LinkID,EndPointID,CRUID,FEEID,ModuleType,LocalChannelID,channel #,Module,HV board,HV channel,MCP S/N,HV cable,signal cable\n";
+  for (const auto& entry : lut) {
+    ofs << entry.mEntryCRU.mLinkID << ","
+        << entry.mEntryCRU.mEndPointID << ","
+        << entry.mEntryCRU.mCRUID << ","
+        << entry.mEntryCRU.mFEEID << ","
+        << entry.mModuleType << ","
+        << entry.mLocalChannelID << ","
+        << entry.mChannelID << ","
+        << entry.mModuleName << ","
+        << entry.mBoardHV << ","
+        << entry.mChannelHV << ","
+        << entry.mSerialNumberMCP << ","
+        << entry.mCableHV << ","
+        << entry.mCableSignal << "\n";
+  }
+  ofs.close();
+}
+
+void saveToRoot(std::shared_ptr<std::vector<o2::fit::EntryFEE>> lut, string_view path)
+{
+  TFile file(path.data(), "RECREATE");
   if(file.IsOpen() ==  false) {
-    LOGP(fatal, "Failed to open file {}", fileName);
+    LOGP(fatal, "Failed to open file {}", path.data());
   }
 
   file.WriteObject(lut.get(), "LookupTable");
