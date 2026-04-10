@@ -1,0 +1,1026 @@
+{
+    "data": {
+        "564319": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 61839,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.2639468,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 61840,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61841,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61881,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 3,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564320": {
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 61889,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61890,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61892,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61927,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61931,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 5,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564321": {
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 61935,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61936,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61955,
+                        "comment": "Number of entries stopped increasing.",
+                        "flagType": {
+                            "name": "No Detector Data",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61977,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61978,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 5,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564322": {
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 61989,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 61990,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62028,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62029,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564324": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62030,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.0424727,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62034,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62035,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62068,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62077,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564333": {
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62092,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62093,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62132,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 3,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564335": {
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62193,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62194,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62234,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 3,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564336": {
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62238,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62267,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62280,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 3,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564337": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62287,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.7894338,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62312,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62313,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62327,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62329,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564338": {
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62352,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62353,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62386,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62388,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564356": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62397,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.0096498,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62389,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62398,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62399,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62440,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 0.2755393,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564359": {
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62447,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62449,
+                        "comment": "Medium quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62462,
+                        "comment": "Number of entries stopped increasing.",
+                        "flagType": {
+                            "name": "No Detector Data",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62475,
+                        "comment": "Number of entries stopped increasing.",
+                        "flagType": {
+                            "name": "No Detector Data",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62478,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62484,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62491,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 7,
+                "badEffectiveRunCoverage": 0.9760293,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564373": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62498,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.2791277,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62493,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62501,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62502,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62542,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 1,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564374": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62547,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.0092384,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62545,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62551,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62552,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62573,
+                        "comment": "Number of entries stopped increasing.",
+                        "flagType": {
+                            "name": "No Detector Data",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62589,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62593,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 6,
+                "badEffectiveRunCoverage": 0.1432374,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564387": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62594,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.0004615,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62601,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62602,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62623,
+                        "comment": "Number of entries stopped increasing.",
+                        "flagType": {
+                            "name": "No Detector Data",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62639,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62643,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 5,
+                "badEffectiveRunCoverage": 0.6896595,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564400": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62648,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.0074561,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62645,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62653,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62654,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62694,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 0.0301921,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564414": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62696,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 2.22e-05,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62698,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62703,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62704,
+                        "comment": "Bad quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62723,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62742,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62744,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 6,
+                "badEffectiveRunCoverage": 0.5970137,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564430": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62751,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.008821,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62757,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62759,
+                        "comment": "Medium quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62796,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62800,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 0.5301721,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        },
+        "564445": {
+            "3": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62854,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 1,
+                "badEffectiveRunCoverage": 0.0108926,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            },
+            "4": {
+                "mcReproducible": false,
+                "minifiedFlags": [
+                    {
+                        "id": 62855,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62860,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62862,
+                        "comment": "Medium quality with no Flags associated",
+                        "flagType": {
+                            "name": "Unknown",
+                            "color": "#d62631"
+                        }
+                    },
+                    {
+                        "id": 62903,
+                        "comment": "Did not receive a Quality Object which covers this period",
+                        "flagType": {
+                            "name": "Unknown Quality",
+                            "color": "#d62631"
+                        }
+                    }
+                ],
+                "missingVerificationsCount": 4,
+                "badEffectiveRunCoverage": 0.4120737,
+                "explicitlyNotBadEffectiveRunCoverage": 0
+            }
+        }
+    }
+}

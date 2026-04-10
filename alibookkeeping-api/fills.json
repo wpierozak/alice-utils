@@ -1,0 +1,2518 @@
+[
+    {
+        "id": 1,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 1,
+            "name": "unknown"
+        }
+    },
+    {
+        "id": 179,
+        "avgCenterOfMassEnergy": 13595.579833984375,
+        "runsCount": 8,
+        "distinctEnergies": [
+            6796.92,
+            6797.52,
+            6798.36
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 179,
+            "name": "LHC26ad"
+        }
+    },
+    {
+        "id": 178,
+        "avgCenterOfMassEnergy": 13594.565596417682,
+        "runsCount": 65,
+        "distinctEnergies": [
+            6796.68,
+            6796.8,
+            6796.92,
+            6797.04,
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.76,
+            6798.24
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 3,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 178,
+            "name": "LHC26ac"
+        }
+    },
+    {
+        "id": 177,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 23,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 177,
+            "name": "LHC26ab"
+        }
+    },
+    {
+        "id": 176,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 176,
+            "name": "LHC26aa"
+        }
+    },
+    {
+        "id": 175,
+        "avgCenterOfMassEnergy": 5379.829949987523,
+        "runsCount": 20,
+        "distinctEnergies": [
+            6796.44,
+            6796.56,
+            6796.8,
+            6797.04,
+            6797.16,
+            6797.28,
+            6797.4
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 175,
+            "name": "LHC25as"
+        }
+    },
+    {
+        "id": 174,
+        "avgCenterOfMassEnergy": 5379.8693955311255,
+        "runsCount": 7,
+        "distinctEnergies": [
+            6796.92,
+            6797.04
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 3,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 174,
+            "name": "LHC25ar"
+        }
+    },
+    {
+        "id": 173,
+        "avgCenterOfMassEnergy": 5380.223476344062,
+        "runsCount": 9,
+        "distinctEnergies": [
+            6796.8,
+            6797.16,
+            6797.28,
+            6798.12,
+            6798.24
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 3,
+        "simulationPassesCount": 4,
+        "lhcPeriod": {
+            "id": 173,
+            "name": "LHC25aq"
+        }
+    },
+    {
+        "id": 172,
+        "avgCenterOfMassEnergy": 5379.864674985281,
+        "runsCount": 6,
+        "distinctEnergies": [
+            6796.68,
+            6797.04,
+            6798.24
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 172,
+            "name": "LHC25ap"
+        }
+    },
+    {
+        "id": 171,
+        "avgCenterOfMassEnergy": 5379.706412474626,
+        "runsCount": 3,
+        "distinctEnergies": [
+            6796.8
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 171,
+            "name": "LHC25ao"
+        }
+    },
+    {
+        "id": 170,
+        "avgCenterOfMassEnergy": 5379.817706934412,
+        "runsCount": 35,
+        "distinctEnergies": [
+            6793.8,
+            6793.92,
+            6796.56,
+            6796.68,
+            6796.8,
+            6796.92,
+            6797.04,
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6798.24,
+            6798.36
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 170,
+            "name": "LHC25an"
+        }
+    },
+    {
+        "id": 169,
+        "avgCenterOfMassEnergy": 13594.458270733174,
+        "runsCount": 104,
+        "distinctEnergies": [
+            6793.92,
+            6794.04,
+            6796.44,
+            6796.56,
+            6796.68,
+            6796.68,
+            6796.8,
+            6796.92,
+            6797.04,
+            6797.16,
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6798.24,
+            6798.36,
+            6798.6
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 5,
+        "lhcPeriod": {
+            "id": 169,
+            "name": "LHC25am"
+        }
+    },
+    {
+        "id": 168,
+        "avgCenterOfMassEnergy": 13595.024719238281,
+        "runsCount": 16,
+        "distinctEnergies": [
+            6796.8,
+            6796.92,
+            6797.28,
+            6797.52,
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 4,
+        "lhcPeriod": {
+            "id": 168,
+            "name": "LHC25al"
+        }
+    },
+    {
+        "id": 167,
+        "avgCenterOfMassEnergy": 13594.28578404018,
+        "runsCount": 14,
+        "distinctEnergies": [
+            6794.04,
+            6796.8,
+            6796.92,
+            6797.16,
+            6797.4,
+            6797.52,
+            6797.64
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 6,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 167,
+            "name": "LHC25ak"
+        }
+    },
+    {
+        "id": 166,
+        "avgCenterOfMassEnergy": 13593.652994791666,
+        "runsCount": 9,
+        "distinctEnergies": [
+            6796.8,
+            6797.04
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 6,
+        "simulationPassesCount": 2,
+        "lhcPeriod": {
+            "id": 166,
+            "name": "LHC25aj"
+        }
+    },
+    {
+        "id": 165,
+        "avgCenterOfMassEnergy": 13595.214577414772,
+        "runsCount": 11,
+        "distinctEnergies": [
+            6796.68,
+            6797.04,
+            6797.16,
+            6797.76,
+            6798.36,
+            6798.6
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 165,
+            "name": "LHC25ai"
+        }
+    },
+    {
+        "id": 164,
+        "avgCenterOfMassEnergy": 13594.494680304277,
+        "runsCount": 114,
+        "distinctEnergies": [
+            6794.04,
+            6794.28,
+            6796.56,
+            6796.68,
+            6796.8,
+            6796.92,
+            6797.04,
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798.36,
+            6798.48,
+            6798.84
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 11,
+        "simulationPassesCount": 3,
+        "lhcPeriod": {
+            "id": 164,
+            "name": "LHC25ah"
+        }
+    },
+    {
+        "id": 163,
+        "avgCenterOfMassEnergy": 13594.41591796875,
+        "runsCount": 10,
+        "distinctEnergies": [
+            6797.04,
+            6797.28,
+            6797.4,
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 163,
+            "name": "LHC25ag"
+        }
+    },
+    {
+        "id": 162,
+        "avgCenterOfMassEnergy": 5355.33470892,
+        "runsCount": 3,
+        "distinctEnergies": [
+            5355
+        ],
+        "pdpBeamTypes": [
+            "OO"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 162,
+            "name": "LHC25af"
+        }
+    },
+    {
+        "id": 161,
+        "avgCenterOfMassEnergy": 5355.394771267653,
+        "runsCount": 10,
+        "distinctEnergies": [
+            5354.4,
+            5354.88,
+            5355,
+            5355.24,
+            5356.08
+        ],
+        "pdpBeamTypes": [
+            "OO"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 161,
+            "name": "LHC25ae"
+        }
+    },
+    {
+        "id": 160,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 7,
+        "distinctEnergies": [
+            6796.8,
+            6796.92,
+            6797.64
+        ],
+        "pdpBeamTypes": [
+            "pO"
+        ],
+        "dataPassesCount": 6,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 160,
+            "name": "LHC25ad"
+        }
+    },
+    {
+        "id": 159,
+        "avgCenterOfMassEnergy": 13595.122833806818,
+        "runsCount": 55,
+        "distinctEnergies": [
+            6796.92,
+            6797.04,
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798.36,
+            6798.48,
+            6798.72
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 8,
+        "simulationPassesCount": 4,
+        "lhcPeriod": {
+            "id": 159,
+            "name": "LHC25ac"
+        }
+    },
+    {
+        "id": 158,
+        "avgCenterOfMassEnergy": 13595.0400390625,
+        "runsCount": 8,
+        "distinctEnergies": [
+            6797.28,
+            6797.52,
+            6797.64
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 158,
+            "name": "LHC25ab"
+        }
+    },
+    {
+        "id": 157,
+        "avgCenterOfMassEnergy": 899.5600179036459,
+        "runsCount": 6,
+        "distinctEnergies": [
+            449.76,
+            449.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 157,
+            "name": "LHC25aa"
+        }
+    },
+    {
+        "id": 156,
+        "avgCenterOfMassEnergy": 5380.336184616021,
+        "runsCount": 27,
+        "distinctEnergies": [
+            6797.04,
+            6797.16,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 15,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 156,
+            "name": "LHC24as"
+        }
+    },
+    {
+        "id": 155,
+        "avgCenterOfMassEnergy": 5380.384772914292,
+        "runsCount": 71,
+        "distinctEnergies": [
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798,
+            6798.48,
+            6798.6,
+            6798.72,
+            6799.2
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 44,
+        "simulationPassesCount": 57,
+        "lhcPeriod": {
+            "id": 155,
+            "name": "LHC24ar"
+        }
+    },
+    {
+        "id": 154,
+        "avgCenterOfMassEnergy": 5352.68994140625,
+        "runsCount": 8,
+        "distinctEnergies": [
+            2674.68,
+            2674.8,
+            2677.92
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 8,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 154,
+            "name": "LHC24aq"
+        }
+    },
+    {
+        "id": 153,
+        "avgCenterOfMassEnergy": 5354.6181640625,
+        "runsCount": 22,
+        "distinctEnergies": [
+            2674.68,
+            2675.16,
+            2675.28,
+            2677.56,
+            2677.68,
+            2677.8,
+            2678.04,
+            2678.16,
+            2679.72
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 11,
+        "lhcPeriod": {
+            "id": 153,
+            "name": "LHC24ap"
+        }
+    },
+    {
+        "id": 152,
+        "avgCenterOfMassEnergy": 13595.111038773148,
+        "runsCount": 54,
+        "distinctEnergies": [
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798,
+            6798.72
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 8,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 152,
+            "name": "LHC24ao"
+        }
+    },
+    {
+        "id": 151,
+        "avgCenterOfMassEnergy": 13492.470322158311,
+        "runsCount": 91,
+        "distinctEnergies": [
+            2117.28,
+            6795.96,
+            6797.04,
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798,
+            6798.12,
+            6798.72
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 151,
+            "name": "LHC24an"
+        }
+    },
+    {
+        "id": 150,
+        "avgCenterOfMassEnergy": 13595.622106481482,
+        "runsCount": 54,
+        "distinctEnergies": [
+            6797.16,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798.12,
+            6798.84,
+            6799.44
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 6,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 150,
+            "name": "LHC24am"
+        }
+    },
+    {
+        "id": 149,
+        "avgCenterOfMassEnergy": 13595.853404205118,
+        "runsCount": 149,
+        "distinctEnergies": [
+            6794.76,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798,
+            6798.12,
+            6798.24,
+            6798.36,
+            6798.72,
+            6798.84,
+            6799.56,
+            6799.68,
+            6799.8
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 3,
+        "lhcPeriod": {
+            "id": 149,
+            "name": "LHC24al"
+        }
+    },
+    {
+        "id": 148,
+        "avgCenterOfMassEnergy": 13596.996694711539,
+        "runsCount": 13,
+        "distinctEnergies": [
+            6797.76,
+            6798.96
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 148,
+            "name": "LHC24ak"
+        }
+    },
+    {
+        "id": 147,
+        "avgCenterOfMassEnergy": 13595.586928423712,
+        "runsCount": 68,
+        "distinctEnergies": [
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798,
+            6798.12,
+            6798.24,
+            6798.36,
+            6798.72,
+            6798.84
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 6,
+        "simulationPassesCount": 2,
+        "lhcPeriod": {
+            "id": 147,
+            "name": "LHC24aj"
+        }
+    },
+    {
+        "id": 146,
+        "avgCenterOfMassEnergy": 13595.759765625,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 146,
+            "name": "LHC24ai"
+        }
+    },
+    {
+        "id": 145,
+        "avgCenterOfMassEnergy": 13596.891322544643,
+        "runsCount": 7,
+        "distinctEnergies": [
+            6797.64,
+            6797.88,
+            6798,
+            6799.32
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 145,
+            "name": "LHC24ah"
+        }
+    },
+    {
+        "id": 130,
+        "avgCenterOfMassEnergy": 13595.968390213815,
+        "runsCount": 38,
+        "distinctEnergies": [
+            6797.16,
+            6797.28,
+            6797.52,
+            6797.76,
+            6797.88,
+            6798,
+            6798.12,
+            6798.24,
+            6798.72,
+            6799.32
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 10,
+        "lhcPeriod": {
+            "id": 130,
+            "name": "LHC24ag"
+        }
+    },
+    {
+        "id": 113,
+        "avgCenterOfMassEnergy": 13595.454946157095,
+        "runsCount": 37,
+        "distinctEnergies": [
+            6794.64,
+            6797.28,
+            6797.4,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798.6,
+            6799.32
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 28,
+        "lhcPeriod": {
+            "id": 113,
+            "name": "LHC24af"
+        }
+    },
+    {
+        "id": 103,
+        "avgCenterOfMassEnergy": 13595.9037109375,
+        "runsCount": 5,
+        "distinctEnergies": [
+            6797.4,
+            6797.52,
+            6797.76,
+            6799.32
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 103,
+            "name": "LHC24ae"
+        }
+    },
+    {
+        "id": 102,
+        "avgCenterOfMassEnergy": 13595.0400390625,
+        "runsCount": 3,
+        "distinctEnergies": [
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 102,
+            "name": "LHC24ad"
+        }
+    },
+    {
+        "id": 101,
+        "avgCenterOfMassEnergy": 13594.865056818182,
+        "runsCount": 11,
+        "distinctEnergies": [
+            6797.28,
+            6797.52,
+            6797.76
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 101,
+            "name": "LHC24ac"
+        }
+    },
+    {
+        "id": 100,
+        "avgCenterOfMassEnergy": 899.52001953125,
+        "runsCount": 4,
+        "distinctEnergies": [
+            449.76
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 100,
+            "name": "LHC24ab"
+        }
+    },
+    {
+        "id": 92,
+        "avgCenterOfMassEnergy": 899.52001953125,
+        "runsCount": 4,
+        "distinctEnergies": [
+            449.76
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 92,
+            "name": "LHC24aa"
+        }
+    },
+    {
+        "id": 90,
+        "avgCenterOfMassEnergy": 5380.451763941879,
+        "runsCount": 52,
+        "distinctEnergies": [
+            6794.4,
+            6797.04,
+            6797.28,
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798.12,
+            6798.24,
+            6798.6,
+            6798.72
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 7,
+        "lhcPeriod": {
+            "id": 90,
+            "name": "LHC23zzo"
+        }
+    },
+    {
+        "id": 89,
+        "avgCenterOfMassEnergy": 5380.205258227079,
+        "runsCount": 4,
+        "distinctEnergies": [
+            6797.16,
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 89,
+            "name": "LHC23zzn"
+        }
+    },
+    {
+        "id": 88,
+        "avgCenterOfMassEnergy": 5380.432410340969,
+        "runsCount": 14,
+        "distinctEnergies": [
+            6797.16,
+            6797.28,
+            6797.76,
+            6797.88,
+            6798.12,
+            6798.72
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 88,
+            "name": "LHC23zzm"
+        }
+    },
+    {
+        "id": 87,
+        "avgCenterOfMassEnergy": 5380.402973642814,
+        "runsCount": 12,
+        "distinctEnergies": [
+            6797.28,
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 87,
+            "name": "LHC23zzl"
+        }
+    },
+    {
+        "id": 86,
+        "avgCenterOfMassEnergy": 5380.326776963713,
+        "runsCount": 17,
+        "distinctEnergies": [
+            6797.16,
+            6797.52,
+            6797.88,
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 19,
+        "simulationPassesCount": 21,
+        "lhcPeriod": {
+            "id": 86,
+            "name": "LHC23zzk"
+        }
+    },
+    {
+        "id": 85,
+        "avgCenterOfMassEnergy": 5381.03615251125,
+        "runsCount": 3,
+        "distinctEnergies": [
+            6797.76,
+            6798.84
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 85,
+            "name": "LHC23zzj"
+        }
+    },
+    {
+        "id": 84,
+        "avgCenterOfMassEnergy": 5380.434664792688,
+        "runsCount": 6,
+        "distinctEnergies": [
+            6797.64,
+            6797.76
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 13,
+        "simulationPassesCount": 4,
+        "lhcPeriod": {
+            "id": 84,
+            "name": "LHC23zzi"
+        }
+    },
+    {
+        "id": 83,
+        "avgCenterOfMassEnergy": 5380.276466694939,
+        "runsCount": 9,
+        "distinctEnergies": [
+            6797.28,
+            6797.64
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 33,
+        "simulationPassesCount": 64,
+        "lhcPeriod": {
+            "id": 83,
+            "name": "LHC23zzh"
+        }
+    },
+    {
+        "id": 82,
+        "avgCenterOfMassEnergy": 5379.9916328235,
+        "runsCount": 2,
+        "distinctEnergies": [
+            6797.16
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 12,
+        "simulationPassesCount": 9,
+        "lhcPeriod": {
+            "id": 82,
+            "name": "LHC23zzg"
+        }
+    },
+    {
+        "id": 81,
+        "avgCenterOfMassEnergy": 5380.276466694938,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 11,
+        "simulationPassesCount": 34,
+        "lhcPeriod": {
+            "id": 81,
+            "name": "LHC23zzf"
+        }
+    },
+    {
+        "id": 80,
+        "avgCenterOfMassEnergy": 5380.347675162798,
+        "runsCount": 4,
+        "distinctEnergies": [
+            6797.52,
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 80,
+            "name": "LHC23zze"
+        }
+    },
+    {
+        "id": 79,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 79,
+            "name": "LHC23zzd"
+        }
+    },
+    {
+        "id": 78,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 78,
+            "name": "LHC23zzc"
+        }
+    },
+    {
+        "id": 77,
+        "avgCenterOfMassEnergy": 5380.276466694938,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 77,
+            "name": "LHC23zzb"
+        }
+    },
+    {
+        "id": 76,
+        "avgCenterOfMassEnergy": 5380.656374015999,
+        "runsCount": 10,
+        "distinctEnergies": [
+            6798
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 3,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 76,
+            "name": "LHC23zza"
+        }
+    },
+    {
+        "id": 75,
+        "avgCenterOfMassEnergy": 5380.238514610575,
+        "runsCount": 5,
+        "distinctEnergies": [
+            6797.16,
+            6797.88,
+            6798
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 75,
+            "name": "LHC23zz"
+        }
+    },
+    {
+        "id": 74,
+        "avgCenterOfMassEnergy": 5380.71975631575,
+        "runsCount": 6,
+        "distinctEnergies": [
+            6798,
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 2,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 74,
+            "name": "LHC23zy"
+        }
+    },
+    {
+        "id": 73,
+        "avgCenterOfMassEnergy": 5380.561300566375,
+        "runsCount": 6,
+        "distinctEnergies": [
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 3,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 73,
+            "name": "LHC23zx"
+        }
+    },
+    {
+        "id": 72,
+        "avgCenterOfMassEnergy": 5351.52001953125,
+        "runsCount": 3,
+        "distinctEnergies": [
+            2675.76
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 72,
+            "name": "LHC23zw"
+        }
+    },
+    {
+        "id": 71,
+        "avgCenterOfMassEnergy": 13596,
+        "runsCount": 8,
+        "distinctEnergies": [
+            6798
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 71,
+            "name": "LHC23zv"
+        }
+    },
+    {
+        "id": 70,
+        "avgCenterOfMassEnergy": 899.2400207519531,
+        "runsCount": 6,
+        "distinctEnergies": [
+            448.92,
+            449.76
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 70,
+            "name": "LHC23zu"
+        }
+    },
+    {
+        "id": 69,
+        "avgCenterOfMassEnergy": 13595.616015625,
+        "runsCount": 10,
+        "distinctEnergies": [
+            6797.04,
+            6798
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 69,
+            "name": "LHC23zt"
+        }
+    },
+    {
+        "id": 68,
+        "avgCenterOfMassEnergy": 13595.68005952381,
+        "runsCount": 21,
+        "distinctEnergies": [
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798,
+            6798.24,
+            6799.2
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 11,
+        "simulationPassesCount": 3,
+        "lhcPeriod": {
+            "id": 68,
+            "name": "LHC23zs"
+        }
+    },
+    {
+        "id": 67,
+        "avgCenterOfMassEnergy": 13595.0400390625,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 8,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 67,
+            "name": "LHC23zr"
+        }
+    },
+    {
+        "id": 66,
+        "avgCenterOfMassEnergy": 13595.0400390625,
+        "runsCount": 2,
+        "distinctEnergies": [
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 66,
+            "name": "LHC23zq"
+        }
+    },
+    {
+        "id": 65,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 7,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 65,
+            "name": "LHC23zp"
+        }
+    },
+    {
+        "id": 64,
+        "avgCenterOfMassEnergy": 13596.48046875,
+        "runsCount": 9,
+        "distinctEnergies": [
+            6798.24
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 3,
+        "lhcPeriod": {
+            "id": 64,
+            "name": "LHC23zo"
+        }
+    },
+    {
+        "id": 63,
+        "avgCenterOfMassEnergy": 13596.240234375,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 63,
+            "name": "LHC23zn"
+        }
+    },
+    {
+        "id": 62,
+        "avgCenterOfMassEnergy": 13595.554408482143,
+        "runsCount": 7,
+        "distinctEnergies": [
+            6797.52,
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 62,
+            "name": "LHC23zm"
+        }
+    },
+    {
+        "id": 61,
+        "avgCenterOfMassEnergy": 13595.0400390625,
+        "runsCount": 6,
+        "distinctEnergies": [
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 61,
+            "name": "LHC23zl"
+        }
+    },
+    {
+        "id": 60,
+        "avgCenterOfMassEnergy": 13595.52001953125,
+        "runsCount": 14,
+        "distinctEnergies": [
+            6797.64,
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 60,
+            "name": "LHC23zk"
+        }
+    },
+    {
+        "id": 59,
+        "avgCenterOfMassEnergy": 13595.51953125,
+        "runsCount": 4,
+        "distinctEnergies": [
+            6797.76
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 59,
+            "name": "LHC23zj"
+        }
+    },
+    {
+        "id": 58,
+        "avgCenterOfMassEnergy": 13595.0400390625,
+        "runsCount": 2,
+        "distinctEnergies": [
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 8,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 58,
+            "name": "LHC23zi"
+        }
+    },
+    {
+        "id": 57,
+        "avgCenterOfMassEnergy": 13595.759765625,
+        "runsCount": 4,
+        "distinctEnergies": [
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 57,
+            "name": "LHC23zh"
+        }
+    },
+    {
+        "id": 56,
+        "avgCenterOfMassEnergy": 13594.5595703125,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6797.28
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 56,
+            "name": "LHC23zg"
+        }
+    },
+    {
+        "id": 55,
+        "avgCenterOfMassEnergy": 13594.7998046875,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6797.4
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 55,
+            "name": "LHC23zf"
+        }
+    },
+    {
+        "id": 54,
+        "avgCenterOfMassEnergy": 13596.48046875,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6798.24
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 54,
+            "name": "LHC23ze"
+        }
+    },
+    {
+        "id": 53,
+        "avgCenterOfMassEnergy": 13595.501727764424,
+        "runsCount": 13,
+        "distinctEnergies": [
+            6797.64,
+            6798
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 53,
+            "name": "LHC23zd"
+        }
+    },
+    {
+        "id": 52,
+        "avgCenterOfMassEnergy": 13595.263736979166,
+        "runsCount": 15,
+        "distinctEnergies": [
+            6797.4,
+            6797.76,
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 12,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 52,
+            "name": "LHC23zc"
+        }
+    },
+    {
+        "id": 51,
+        "avgCenterOfMassEnergy": 13595.51953125,
+        "runsCount": 4,
+        "distinctEnergies": [
+            6797.76
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 51,
+            "name": "LHC23zb"
+        }
+    },
+    {
+        "id": 50,
+        "avgCenterOfMassEnergy": 13595.595031738281,
+        "runsCount": 16,
+        "distinctEnergies": [
+            6797.4,
+            6797.52,
+            6797.76,
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 50,
+            "name": "LHC23za"
+        }
+    },
+    {
+        "id": 49,
+        "avgCenterOfMassEnergy": 13594.799641927084,
+        "runsCount": 6,
+        "distinctEnergies": [
+            6797.28,
+            6798
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 49,
+            "name": "LHC23z"
+        }
+    },
+    {
+        "id": 48,
+        "avgCenterOfMassEnergy": 13595.760091145834,
+        "runsCount": 6,
+        "distinctEnergies": [
+            6797.64,
+            6798
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 48,
+            "name": "LHC23y"
+        }
+    },
+    {
+        "id": 47,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 47,
+            "name": "LHC23x"
+        }
+    },
+    {
+        "id": 46,
+        "avgCenterOfMassEnergy": 13595.2802734375,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6797.64
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 8,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 46,
+            "name": "LHC23w"
+        }
+    },
+    {
+        "id": 45,
+        "avgCenterOfMassEnergy": 13595.60733309659,
+        "runsCount": 11,
+        "distinctEnergies": [
+            6797.4,
+            6797.64,
+            6798,
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 45,
+            "name": "LHC23v"
+        }
+    },
+    {
+        "id": 44,
+        "avgCenterOfMassEnergy": 13596.677734375,
+        "runsCount": 17,
+        "distinctEnergies": [
+            6797.4,
+            6797.64,
+            6798.12,
+            6798.24,
+            6798.72,
+            6798.84,
+            6799.44
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 44,
+            "name": "LHC23u"
+        }
+    },
+    {
+        "id": 43,
+        "avgCenterOfMassEnergy": 13595.759765625,
+        "runsCount": 2,
+        "distinctEnergies": [
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 43,
+            "name": "LHC23t"
+        }
+    },
+    {
+        "id": 42,
+        "avgCenterOfMassEnergy": 13595.689223345587,
+        "runsCount": 17,
+        "distinctEnergies": [
+            6797.4,
+            6797.52,
+            6797.76,
+            6797.88,
+            6798,
+            6798.12,
+            6799.56
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 4,
+        "lhcPeriod": {
+            "id": 42,
+            "name": "LHC23s"
+        }
+    },
+    {
+        "id": 41,
+        "avgCenterOfMassEnergy": 13595.69424715909,
+        "runsCount": 11,
+        "distinctEnergies": [
+            6797.76,
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 41,
+            "name": "LHC23r"
+        }
+    },
+    {
+        "id": 40,
+        "avgCenterOfMassEnergy": 13595.759765625,
+        "runsCount": 5,
+        "distinctEnergies": [
+            6797.88
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 40,
+            "name": "LHC23q"
+        }
+    },
+    {
+        "id": 39,
+        "avgCenterOfMassEnergy": 13596,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6798
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 39,
+            "name": "LHC23p"
+        }
+    },
+    {
+        "id": 38,
+        "avgCenterOfMassEnergy": 13594.85986328125,
+        "runsCount": 4,
+        "distinctEnergies": [
+            6797.4,
+            6797.52
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 38,
+            "name": "LHC23o"
+        }
+    },
+    {
+        "id": 37,
+        "avgCenterOfMassEnergy": 13596.08700284091,
+        "runsCount": 11,
+        "distinctEnergies": [
+            6797.76,
+            6797.88,
+            6798.36
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 37,
+            "name": "LHC23n"
+        }
+    },
+    {
+        "id": 36,
+        "avgCenterOfMassEnergy": 13598.080403645834,
+        "runsCount": 6,
+        "distinctEnergies": [
+            6798.24,
+            6799.2
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 36,
+            "name": "LHC23m"
+        }
+    },
+    {
+        "id": 35,
+        "avgCenterOfMassEnergy": 13596.399956597223,
+        "runsCount": 9,
+        "distinctEnergies": [
+            6797.88,
+            6798,
+            6798.24,
+            6799.08
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 5,
+        "lhcPeriod": {
+            "id": 35,
+            "name": "LHC23l"
+        }
+    },
+    {
+        "id": 34,
+        "avgCenterOfMassEnergy": 13596.420166015625,
+        "runsCount": 4,
+        "distinctEnergies": [
+            6798,
+            6798.24,
+            6798.36
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 34,
+            "name": "LHC23k"
+        }
+    },
+    {
+        "id": 33,
+        "avgCenterOfMassEnergy": 13596,
+        "runsCount": 3,
+        "distinctEnergies": [
+            6797.76,
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 33,
+            "name": "LHC23j"
+        }
+    },
+    {
+        "id": 32,
+        "avgCenterOfMassEnergy": 13596.240234375,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 32,
+            "name": "LHC23i"
+        }
+    },
+    {
+        "id": 31,
+        "avgCenterOfMassEnergy": 13596.860107421875,
+        "runsCount": 12,
+        "distinctEnergies": [
+            6798.24,
+            6798.36,
+            6799.08
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 2,
+        "lhcPeriod": {
+            "id": 31,
+            "name": "LHC23h"
+        }
+    },
+    {
+        "id": 30,
+        "avgCenterOfMassEnergy": 13595.60560825893,
+        "runsCount": 14,
+        "distinctEnergies": [
+            6797.4,
+            6797.52,
+            6797.76,
+            6798.36,
+            6799.08
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 5,
+        "lhcPeriod": {
+            "id": 30,
+            "name": "LHC23g"
+        }
+    },
+    {
+        "id": 29,
+        "avgCenterOfMassEnergy": 13598.10009765625,
+        "runsCount": 4,
+        "distinctEnergies": [
+            6798.96,
+            6799.08
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 27,
+        "lhcPeriod": {
+            "id": 29,
+            "name": "LHC23f"
+        }
+    },
+    {
+        "id": 28,
+        "avgCenterOfMassEnergy": 13597.919921875,
+        "runsCount": 2,
+        "distinctEnergies": [
+            6798.96
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 28,
+            "name": "LHC23e"
+        }
+    },
+    {
+        "id": 27,
+        "avgCenterOfMassEnergy": 13598.8798828125,
+        "runsCount": 2,
+        "distinctEnergies": [
+            6799.44
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 27,
+            "name": "LHC23d"
+        }
+    },
+    {
+        "id": 26,
+        "avgCenterOfMassEnergy": 13595.51953125,
+        "runsCount": 2,
+        "distinctEnergies": [
+            6797.76
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 26,
+            "name": "LHC23c"
+        }
+    },
+    {
+        "id": 25,
+        "avgCenterOfMassEnergy": 899.6100006103516,
+        "runsCount": 16,
+        "distinctEnergies": [
+            449.04,
+            449.28,
+            450
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 25,
+            "name": "LHC23b"
+        }
+    },
+    {
+        "id": 24,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 24,
+            "name": "LHC23a"
+        }
+    },
+    {
+        "id": 23,
+        "avgCenterOfMassEnergy": 13595.826551649305,
+        "runsCount": 18,
+        "distinctEnergies": [
+            6797.4,
+            6797.52,
+            6797.64,
+            6797.88,
+            6798.12,
+            6798.84
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 10,
+        "simulationPassesCount": 1,
+        "lhcPeriod": {
+            "id": 23,
+            "name": "LHC22t"
+        }
+    },
+    {
+        "id": 22,
+        "avgCenterOfMassEnergy": 5380.5803152563,
+        "runsCount": 5,
+        "distinctEnergies": [
+            6797.76,
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "PbPb"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 7,
+        "lhcPeriod": {
+            "id": 22,
+            "name": "LHC22s"
+        }
+    },
+    {
+        "id": 21,
+        "avgCenterOfMassEnergy": 13595.85767505787,
+        "runsCount": 27,
+        "distinctEnergies": [
+            6797.4,
+            6797.76,
+            6797.88,
+            6798,
+            6798.12,
+            6798.36
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 9,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 21,
+            "name": "LHC22r"
+        }
+    },
+    {
+        "id": 20,
+        "avgCenterOfMassEnergy": 13595.623116629464,
+        "runsCount": 14,
+        "distinctEnergies": [
+            6797.64,
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 6,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 20,
+            "name": "LHC22q"
+        }
+    },
+    {
+        "id": 19,
+        "avgCenterOfMassEnergy": 13596.43212890625,
+        "runsCount": 20,
+        "distinctEnergies": [
+            6797.88,
+            6798,
+            6798.12,
+            6798.96
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 9,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 19,
+            "name": "LHC22p"
+        }
+    },
+    {
+        "id": 18,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 7,
+        "simulationPassesCount": 7,
+        "lhcPeriod": {
+            "id": 18,
+            "name": "LHC22o-test"
+        }
+    },
+    {
+        "id": 17,
+        "avgCenterOfMassEnergy": 13596.506714665033,
+        "runsCount": 153,
+        "distinctEnergies": [
+            6797.52,
+            6797.64,
+            6797.76,
+            6797.88,
+            6798,
+            6798.12,
+            6798.24,
+            6798.36,
+            6799.08,
+            6799.2
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 21,
+        "simulationPassesCount": 91,
+        "lhcPeriod": {
+            "id": 17,
+            "name": "LHC22o"
+        }
+    },
+    {
+        "id": 16,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 16,
+            "name": "LHC22n"
+        }
+    },
+    {
+        "id": 15,
+        "avgCenterOfMassEnergy": 13596.50571986607,
+        "runsCount": 28,
+        "distinctEnergies": [
+            6797.88,
+            6798,
+            6798.12,
+            6798.36,
+            6799.2
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 34,
+        "simulationPassesCount": 10,
+        "lhcPeriod": {
+            "id": 15,
+            "name": "LHC22m"
+        }
+    },
+    {
+        "id": 14,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 14,
+            "name": "LHC22l"
+        }
+    },
+    {
+        "id": 13,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 13,
+            "name": "LHC22k"
+        }
+    },
+    {
+        "id": 12,
+        "avgCenterOfMassEnergy": 13598.400390625,
+        "runsCount": 2,
+        "distinctEnergies": [
+            6799.2
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 12,
+            "name": "LHC22j"
+        }
+    },
+    {
+        "id": 11,
+        "avgCenterOfMassEnergy": 13598.400390625,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6799.2
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 11,
+            "name": "LHC22i"
+        }
+    },
+    {
+        "id": 10,
+        "avgCenterOfMassEnergy": 13596.48046875,
+        "runsCount": 10,
+        "distinctEnergies": [
+            6798.24
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 10,
+            "name": "LHC22h"
+        }
+    },
+    {
+        "id": 9,
+        "avgCenterOfMassEnergy": 13596.240234375,
+        "runsCount": 1,
+        "distinctEnergies": [
+            6798.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 1,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 9,
+            "name": "LHC22g"
+        }
+    },
+    {
+        "id": 8,
+        "avgCenterOfMassEnergy": 13596.43203125,
+        "runsCount": 5,
+        "distinctEnergies": [
+            6798.12,
+            6798.36
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 9,
+        "simulationPassesCount": 19,
+        "lhcPeriod": {
+            "id": 8,
+            "name": "LHC22f"
+        }
+    },
+    {
+        "id": 7,
+        "avgCenterOfMassEnergy": 900,
+        "runsCount": 15,
+        "distinctEnergies": [
+            450
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 6,
+        "simulationPassesCount": 10,
+        "lhcPeriod": {
+            "id": 7,
+            "name": "LHC22e"
+        }
+    },
+    {
+        "id": 6,
+        "avgCenterOfMassEnergy": 900.239990234375,
+        "runsCount": 4,
+        "distinctEnergies": [
+            450.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 5,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 6,
+            "name": "LHC22d"
+        }
+    },
+    {
+        "id": 5,
+        "avgCenterOfMassEnergy": 895.152001953125,
+        "runsCount": 15,
+        "distinctEnergies": [
+            445.32,
+            445.44,
+            450,
+            450.12
+        ],
+        "pdpBeamTypes": [
+            "pp"
+        ],
+        "dataPassesCount": 4,
+        "simulationPassesCount": 3,
+        "lhcPeriod": {
+            "id": 5,
+            "name": "LHC22c"
+        }
+    },
+    {
+        "id": 4,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 4,
+            "name": "LHC22b"
+        }
+    },
+    {
+        "id": 3,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 3,
+            "name": "LHC22a"
+        }
+    },
+    {
+        "id": 2,
+        "avgCenterOfMassEnergy": null,
+        "runsCount": 0,
+        "distinctEnergies": [],
+        "pdpBeamTypes": [],
+        "dataPassesCount": 0,
+        "simulationPassesCount": 0,
+        "lhcPeriod": {
+            "id": 2,
+            "name": "changed-during-a-run"
+        }
+    }
+]
